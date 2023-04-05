@@ -1,0 +1,10 @@
+/* ----------------- FONTS --- */
+/* ------------------  Exo 2 --- */
+@font-face {
+  font-family: "Exo 2";
+  src: url("../Fonts/Exo_2/Exo2-Regular.eot"); /* IE9 Compat Modes */
+  src: local(""), url("../Fonts/Exo_2/Exo2-Regular.eot?#iefix") format("embedded-opentype"), url("../Fonts/Exo_2/Exo2-Regular.woff2") format("woff2"), url("../Fonts/Exo_2/Exo2-Regular.woff") format("woff"), url("../Fonts/Exo_2/Exo2-Regular.ttf") format("truetype"), url("../Fonts/Exo_2/Exo2-Regular.svg#Exo2-Regular") format("svg"); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}/*# sourceMappingURL=!fonts.css.map */

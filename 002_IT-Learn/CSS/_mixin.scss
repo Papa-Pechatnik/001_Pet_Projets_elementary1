@@ -1,0 +1,9 @@
+/* ----------------- MIXIN --- */
+@mixin Font ($font-weight, $font-size) {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: $font-weight;
+    font-size: $font-size+px;
+    line-height: 134.7%; /* or 67px */
+    color: var(--color-basic);
+}
